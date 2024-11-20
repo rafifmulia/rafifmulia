@@ -9,19 +9,19 @@ I want to upskill from old fashioned web dev to be a great backend dev.
 </p>
 
 ## Tech Used
-- Language: Go, JS, PHP
+- Languages: Go, JS, PHP
 - Web Dev: Laravel, jQuery
 - Backend Only: Go, Node.js (Express.js)
-- Database: MySQL/MariaDB, Postgres
-- Web Server: Nginx, Apache
-- Platform: Linux (Ubuntu, Fedora & Red Hat)
-- Container: Docker, Podman
-- Infrastructure: Cloudflare (DNS Nameserver), AWS (Just simple use case: 3-tier web architecture)
+- Databases: MySQL/MariaDB, Postgres
+- Web Servers: Nginx, Apache
+- Operating Systems: Linux (Ubuntu, Fedora & Red Hat)
+- Containers: Docker, Podman
+- Cloud Platforms/Services: Cloudflare (DNS Nameserver), AWS (Just simple use case: 3-tier web architecture)
 - Monitoring: OpenTelemetry, Jaeger, Prometheus, Grafana
 
 ## Tech/Skill Currently in Learning
 - SELinux
-- Red Hat
+- Red Hat or Fedora
 - Go
 - Software Instrumentation
 - Postgres
